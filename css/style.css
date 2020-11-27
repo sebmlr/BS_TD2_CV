@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: solid black 3px;
+}
+.welcome{
+    padding-top: 18px;
+}
+
+nav{
+
+}
+
+
+article{
+    margin-bottom: 10px;
+    border-color: #1b1c1c;
+    border-radius: 5px;
+}
+.article-title{
+    color: white;
+    background-color: #14619f;
+}
